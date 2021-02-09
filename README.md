@@ -1,4 +1,4 @@
-# nature_tech_landscape_services
+# vue_pug_scss_bootstrap_firebase_template 
 
 ## Project setup
 ```
